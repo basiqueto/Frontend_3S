@@ -21,6 +21,11 @@
 
 <img width="1897" height="915" alt="image" src="https://github.com/user-attachments/assets/e4d8323d-e35a-47a1-ae55-2f6732e00654" />
 
+## Animais 
+
+<img width="1906" height="910" alt="image" src="https://github.com/user-attachments/assets/062afe8e-6e3c-4d62-bba9-23dd27ac6a9d" />
+
+
 
 
 
